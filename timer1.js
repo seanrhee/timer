@@ -28,4 +28,4 @@ const timer = function(args) {
   };
 };
 
-// timer(argArray);
+timer(argArray);
